@@ -6,7 +6,7 @@
 Discord advertising bot is a service based on Discord api and discord app, with which you can manage your advertising services and servers.
 This source code has a professional management panel and a logging system for all matters 🗃️
 
-<h2>Features :</h2>
+<h2>Features :</h2> 
 
 + Logging  system
 + Traccking code system
